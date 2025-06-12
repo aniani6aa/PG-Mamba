@@ -1,1 +1,0 @@
-python3 graph_mamba.py --dataset "Car" --resume "" --code_length 4 --batch_size 16 --batch_size1 8 --num_epochs 300 --seq_len 577 --patch_len '4,12' --stride '2,4' 

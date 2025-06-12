@@ -1,1 +1,0 @@
-python3 graph_mamba.py --dataset "Coffee" --resume "" --code_length 2 --batch_size 16 --batch_size1 16 --num_epochs 300 --seq_len 286 --patch_len '6,12' --stride '2,4' 

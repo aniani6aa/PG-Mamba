@@ -1,1 +1,0 @@
-python3 graph_mamba.py --dataset "Chinatown" --resume "" --code_length 2 --batch_size 64 --batch_size1 64 --num_epochs 300 --seq_len 24 --patch_len '2,12' --stride '2,4'

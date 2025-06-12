@@ -1,1 +1,0 @@
-python3 graph_mamba.py --dataset "CBF" --resume "" --code_length 3 --batch_size 128 --batch_size1 64 --num_epochs 300 --seq_len 128 --patch_len '6,12' --stride '2,4'
